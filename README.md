@@ -30,3 +30,5 @@ Les feedbacks et contributions sont toujours les bienvenus ! N'hésitez pas à o
 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/idir-kebbiche-753289232/) ou consulter mes autres projets sur [GitHub](https://github.com/idir-kebbiche).
 
 Merci de visiter mon portfolio ! 😊
+
+![image](https://github.com/user-attachments/assets/f850e729-4946-4007-b888-1ca34cb3b3b7)
